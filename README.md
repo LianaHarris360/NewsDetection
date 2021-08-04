@@ -17,3 +17,17 @@ Passive Aggressive algorithms are online learning algorithms. This algorithm
     
     
    *Data-Flair Tutorial
+  
+  
+  **OUTPUT**
+   
+   
+   ![Screen Shot 2021-08-04 at 3 22 22 PM](https://user-images.githubusercontent.com/46411498/128250167-29f43a70-091e-41d4-b56e-3903e34879d6.png)
+
+   
+   
+   ![Screen Shot 2021-08-04 at 3 23 09 PM](https://user-images.githubusercontent.com/46411498/128250146-30923bfa-e7f4-494f-9d35-36b069751438.png)
+
+   
+   ![Screen Shot 2021-08-04 at 3 23 46 PM](https://user-images.githubusercontent.com/46411498/128250106-0626ae0b-b191-4ee9-8ac9-970ba6ffa5e2.png)
+
