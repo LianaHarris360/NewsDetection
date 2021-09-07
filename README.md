@@ -15,8 +15,7 @@ Passive Aggressive algorithms are online learning algorithms. This algorithm
     the event of a miscalculation, updating and adjusting. Its purpose is to make 
     updates that correct the loss, causing very little change in the norm of the weight vector.
     
-    
-   *Data-Flair Tutorial
+   
   
   
   **OUTPUT**
